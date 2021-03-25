@@ -15,3 +15,4 @@ room2 = "bathroom"
 noun4 = "sink"
 noun 5 = "curtian"
 print("Last week we went to my grandmas house and had " + food + "for supper. " + "After that we all sat in the " + Room + "to open my presents. " + The first gift )
+
